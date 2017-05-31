@@ -12,6 +12,7 @@
 		0AEDB0181EDECEB000613EB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AEDB0161EDECEB000613EB2 /* Main.storyboard */; };
 		0AEDB01A1EDECEB000613EB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AEDB0191EDECEB000613EB2 /* Assets.xcassets */; };
 		0AEDB01D1EDECEB000613EB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AEDB01B1EDECEB000613EB2 /* LaunchScreen.storyboard */; };
+		0AEDB0251EDED53200613EB2 /* AwesomeMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AEDB0241EDED53200613EB2 /* AwesomeMenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0AEDB0191EDECEB000613EB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AEDB01C1EDECEB000613EB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AEDB01E1EDECEB000613EB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AEDB0241EDED53200613EB2 /* AwesomeMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AwesomeMenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0AEDB0121EDECEB000613EB2 /* AppDelegate.swift */,
 				0AEDB0141EDECEB000613EB2 /* ViewController.swift */,
 				0AEDB0161EDECEB000613EB2 /* Main.storyboard */,
+				0AEDB0241EDED53200613EB2 /* AwesomeMenuViewController.swift */,
 				0AEDB0191EDECEB000613EB2 /* Assets.xcassets */,
 				0AEDB01B1EDECEB000613EB2 /* LaunchScreen.storyboard */,
 				0AEDB01E1EDECEB000613EB2 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				0AEDB0151EDECEB000613EB2 /* ViewController.swift in Sources */,
 				0AEDB0131EDECEB000613EB2 /* AppDelegate.swift in Sources */,
+				0AEDB0251EDED53200613EB2 /* AwesomeMenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
